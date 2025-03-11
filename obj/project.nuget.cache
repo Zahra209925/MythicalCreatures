@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYvsZrM0524=",
+  "success": true,
+  "projectFilePath": "/Users/s2401563/Documents/GitHub/bc_net24s_ryhma-main/src/MythicalCreatures/MythicalCreatures.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2401563/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/s2401563/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/s2401563/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

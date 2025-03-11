@@ -1,0 +1,6 @@
+@MythicalCreatures_HostAddress = http://localhost:5146
+
+GET {{MythicalCreatures_HostAddress}}/api/creatures/
+Accept: application/json
+
+###
